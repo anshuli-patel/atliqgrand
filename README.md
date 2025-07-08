@@ -9,6 +9,10 @@ This project simulates a real-world business scenario and demonstrates how Power
 It presents a clean, executive-level view of performance metrics such as revenue, occupancy, and customer satisfaction — all in one place.
 
 ---
+## 📁 Project Files
+
+- `AtliQ Grand.pbix` – Main Power BI report file (fully interactive)
+- `AtliQ Grand.pdf` – File with the dashboard screenshot for preview
 
 ## 🔍 Key Features
 
