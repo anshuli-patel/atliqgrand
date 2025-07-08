@@ -11,8 +11,8 @@ It presents a clean, executive-level view of performance metrics such as revenue
 ---
 ## 📁 Project Files
 
-- `AtliQ Grand.pbix` – Main Power BI report file (fully interactive)
-- `AtliQ Grand.pdf` – File with the dashboard screenshot for preview
+- `AtliQ Grand.pbix` - Main Power BI report file (fully interactive)
+- `AtliQ Grand.pdf` - File with the dashboard screenshot for preview
 
 ## 🔍 Key Features
 
