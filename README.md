@@ -2,10 +2,7 @@
 
 An interactive Power BI dashboard built to analyze operational metrics across multiple hotel properties and cities for the fictional brand **AtliQ Grand**.
 
-![Project Preview](assets/AtliQ_Grand_Hotel_Dashboard_Preview.png)
-
 ---
-
 ## 📌 Description
 
 This project simulates a real-world business scenario and demonstrates how Power BI can be used to build data-driven insights for hotel operations.  
